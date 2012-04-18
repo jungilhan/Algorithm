@@ -11,7 +11,6 @@ def insert(array, pos, value):
 		array[index + 1] = array[index]
 		index = index - 1
 	array[index + 1] = value
-	print 'Sorting', array
 
 if __name__ == '__main__':
 	array = [3, 7, 2, 5, 1, 4]
