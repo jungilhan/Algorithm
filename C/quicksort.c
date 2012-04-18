@@ -38,7 +38,7 @@ void sort(int* array, int length)
 
 int main(int argc, char* argv[]) 
 {
-	int array = {5, 3, 7, 6, 2, 1, 4};
+	int array[] = {5, 3, 7, 6, 2, 1, 4};
 	int length =sizeof(array) / sizeof(int); 
 	sort(array, length);
 
