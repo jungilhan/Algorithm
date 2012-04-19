@@ -31,7 +31,7 @@ func partition(array []int, left int, right int) int {
 }
 
 func main() {
-	array := []int{5, 3, 7, 6, 2, 1, 4};
+	array := []int{5, 3, 7, 6, 2, 1, 4}
 	fmt.Println("Source:", array)
 
 	sort(array)
