@@ -267,45 +267,45 @@ sys	0m0.028s
 CO3- insertion sort - 48K
 =========================
 
-real	0m0.112s
-user	0m0.100s
-sys	0m0.012s
-
-real	0m0.151s
-user	0m0.124s
-sys	0m0.032s
-
-real	0m0.139s
-user	0m0.112s
-sys	0m0.028s
-
-real	0m0.113s
-user	0m0.104s
-sys	0m0.012s
-
-real	0m0.110s
-user	0m0.096s
+real	0m0.059s
+user	0m0.040s
 sys	0m0.016s
 
-real	0m0.135s
-user	0m0.124s
+real	0m0.046s
+user	0m0.032s
 sys	0m0.012s
 
-real	0m0.121s
-user	0m0.104s
-sys	0m0.020s
+real	0m0.047s
+user	0m0.040s
+sys	0m0.008s
 
-real	0m0.130s
-user	0m0.116s
+real	0m0.058s
+user	0m0.032s
+sys	0m0.028s
+
+real	0m0.066s
+user	0m0.052s
 sys	0m0.012s
 
-real	0m0.149s
-user	0m0.120s
+real	0m0.080s
+user	0m0.056s
+sys	0m0.024s
+
+real	0m0.060s
+user	0m0.040s
 sys	0m0.028s
 
-real	0m0.147s
-user	0m0.124s
-sys	0m0.028s
+real	0m0.065s
+user	0m0.048s
+sys	0m0.016s
+
+real	0m0.052s
+user	0m0.040s
+sys	0m0.012s
+
+real	0m0.052s
+user	0m0.044s
+sys	0m0.012s
 
 =========================
 PyPy- insertion sort 
@@ -352,7 +352,7 @@ user	0m0.192s
 sys	0m0.212s
 
 =========================
-Go- selection sort - 272K
+Go- selection sort 
 =========================
 
 real	0m0.236s
@@ -439,7 +439,7 @@ user	0m0.200s
 sys	0m0.024s
 
 =========================
-CO2- selection sort - 48K
+CO3- selection sort - 48K
 =========================
 
 real	0m0.132s
@@ -524,3 +524,176 @@ sys	0m0.132s
 real	0m0.406s
 user	0m0.288s
 sys	0m0.116s
+
+=========================
+Go - shell sort - 272K
+=========================
+real	0m0.039s
+user	0m0.012s
+sys	0m0.024s
+
+real	0m0.027s
+user	0m0.004s
+sys	0m0.028s
+
+real	0m0.022s
+user	0m0.008s
+sys	0m0.016s
+
+real	0m0.034s
+user	0m0.012s
+sys	0m0.024s
+
+real	0m0.028s
+user	0m0.012s
+sys	0m0.016s
+
+real	0m0.037s
+user	0m0.000s
+sys	0m0.036s
+
+real	0m0.039s
+user	0m0.008s
+sys	0m0.036s
+
+real	0m0.042s
+user	0m0.004s
+sys	0m0.040s
+
+real	0m0.025s
+user	0m0.012s
+sys	0m0.008s
+
+real	0m0.024s
+user	0m0.008s
+sys	0m0.012s
+
+=========================
+CO0 - shell sort - 48K
+=========================
+real	0m0.030s
+user	0m0.008s
+sys	0m0.024s
+
+real	0m0.038s
+user	0m0.008s
+sys	0m0.028s
+
+real	0m0.033s
+user	0m0.008s
+sys	0m0.024s
+
+real	0m0.037s
+user	0m0.008s
+sys	0m0.032s
+
+real	0m0.034s
+user	0m0.012s
+sys	0m0.028s
+
+real	0m0.030s
+user	0m0.008s
+sys	0m0.024s
+
+real	0m0.033s
+user	0m0.008s
+sys	0m0.028s
+
+real	0m0.032s
+user	0m0.008s
+sys	0m0.024s
+
+real	0m0.036s
+user	0m0.004s
+sys	0m0.036s
+
+real	0m0.035s
+user	0m0.012s
+sys	0m0.028s
+
+=========================
+CO3 - shell sort - 48K
+=========================
+
+real	0m0.026s
+user	0m0.004s
+sys	0m0.024s
+
+real	0m0.032s
+user	0m0.000s
+sys	0m0.032s
+
+real	0m0.026s
+user	0m0.004s
+sys	0m0.024s
+
+real	0m0.031s
+user	0m0.004s
+sys	0m0.028s
+
+real	0m0.028s
+user	0m0.008s
+sys	0m0.016s
+
+real	0m0.028s
+user	0m0.000s
+sys	0m0.032s
+
+real	0m0.035s
+user	0m0.008s
+sys	0m0.036s
+
+real	0m0.027s
+user	0m0.004s
+sys	0m0.028s
+
+real	0m0.023s
+user	0m0.000s
+sys	0m0.024s
+
+real	0m0.025s
+user	0m0.004s
+sys	0m0.024s
+
+=========================
+PyPy - shell sort
+=========================
+real	0m0.289s
+user	0m0.148s
+sys	0m0.148s
+
+real	0m0.283s
+user	0m0.116s
+sys	0m0.172s
+
+real	0m0.299s
+user	0m0.136s
+sys	0m0.164s
+
+real	0m0.295s
+user	0m0.120s
+sys	0m0.180s
+
+real	0m0.288s
+user	0m0.128s
+sys	0m0.168s
+
+real	0m0.308s
+user	0m0.124s
+sys	0m0.184s
+
+real	0m0.295s
+user	0m0.112s
+sys	0m0.188s
+
+real	0m0.292s
+user	0m0.128s
+sys	0m0.164s
+
+real	0m0.305s
+user	0m0.160s
+sys	0m0.148s
+
+real	0m0.293s
+user	0m0.120s
+sys	0m0.176s
