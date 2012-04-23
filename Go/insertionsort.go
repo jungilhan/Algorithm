@@ -10,9 +10,8 @@ func sort(array []int) {
 
 func insert(array []int, pos, value int) {
 	index := pos - 1
-	for ; index >= 0 && array[index] > value; {
+	for ; index >= 0 && array[index] > value; index--{
 		array[index + 1] = array[index]
-		index--
 	}
 
 	array[index + 1] = value
