@@ -697,3 +697,137 @@ sys	0m0.148s
 real	0m0.293s
 user	0m0.120s
 sys	0m0.176s
+
+=========================
+Go - bubble sort
+=========================
+
+=========================
+CO0 - bubble sort - 48K
+=========================
+real	0m0.393s
+user	0m0.384s
+sys	0m0.012s
+
+real	0m0.425s
+user	0m0.404s
+sys	0m0.020s
+
+real	0m0.427s
+user	0m0.392s
+sys	0m0.036s
+
+real	0m0.445s
+user	0m0.420s
+sys	0m0.028s
+
+real	0m0.429s
+user	0m0.408s
+sys	0m0.024s
+
+real	0m0.416s
+user	0m0.400s
+sys	0m0.020s
+
+real	0m0.461s
+user	0m0.436s
+sys	0m0.024s
+
+real	0m0.437s
+user	0m0.404s
+sys	0m0.024s
+
+real	0m0.399s
+user	0m0.384s
+sys	0m0.020s
+
+real	0m0.417s
+user	0m0.392s
+sys	0m0.028s
+
+=========================
+C03 - bubble sort - 48K
+=========================
+real	0m0.231s
+user	0m0.208s
+sys	0m0.028s
+
+real	0m0.248s
+user	0m0.224s
+sys	0m0.024s
+
+real	0m0.236s
+user	0m0.216s
+sys	0m0.024s
+
+real	0m0.241s
+user	0m0.212s
+sys	0m0.032s
+
+real	0m0.241s
+user	0m0.220s
+sys	0m0.028s
+
+real	0m0.201s
+user	0m0.192s
+sys	0m0.012s
+
+real	0m0.221s
+user	0m0.192s
+sys	0m0.032s
+
+real	0m0.218s
+user	0m0.208s
+sys	0m0.012s
+
+real	0m0.220s
+user	0m0.204s
+sys	0m0.016s
+
+real	0m0.231s
+user	0m0.208s
+sys	0m0.024s
+
+=========================
+PyPy - bubble sort
+=========================
+
+real	0m0.835s
+user	0m0.664s
+sys	0m0.176s
+
+real	0m0.841s
+user	0m0.588s
+sys	0m0.252s
+
+real	0m0.843s
+user	0m0.660s
+sys	0m0.184s
+
+real	0m0.875s
+user	0m0.708s
+sys	0m0.172s
+
+real	0m0.873s
+user	0m0.676s
+sys	0m0.200s
+
+real	0m0.960s
+user	0m0.700s
+sys	0m0.256s
+
+real	0m0.867s
+user	0m0.620s
+sys	0m0.244s
+
+real	0m0.890s
+user	0m0.656s
+sys	0m0.240s
+
+real	0m0.850s
+user	0m0.696s
+sys	0m0.160s
+
+real	0m0.969s
+user	0m0.672s
+sys	0m0.296s
