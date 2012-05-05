@@ -14,5 +14,5 @@ def binarysearch(array, low, high, value):
                 return binarysearch(array, low, mid - 1, value)
  
 if __name__ == '__main__':
-        array = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+        array = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90]
         print search(array, 90)
